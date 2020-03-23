@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">DemoApp</string>
+    <string name="login">login</string>
+    <string name="age">Age</string>
+    <string name="name">Name</string>
+    <string name="phone_number">Phone Number</string>
+</resources>
